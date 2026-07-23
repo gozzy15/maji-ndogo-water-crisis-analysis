@@ -271,4 +271,4 @@ Data Analyst | Business Intelligence Analyst
 
 This repository is intended for educational and portfolio purposes.
 
-Feel free to explore the SQL scripts, documentation, and Power BI dashboard to understand the complete analytical workflow used throughout the project.
+Feel free to explore the SQL scripts, and documentation to understand the complete analytical workflow used throughout the project.
